@@ -1,1 +1,1 @@
-Repo ini adalah Project Kuliah saya dengan Java Gui Netbeans
+This repo is my College Project with Java Gui Netbeans
